@@ -1,7 +1,5 @@
 # Optimization-Methods-in-Management-Science
-Here’s a translation of your text into English:
 
----
 
 **In the context of the exercise, we will solve a vehicle routing problem aimed at minimizing the total energy required for the transportation of products, which in turn minimizes transportation costs. The operational scenario is as follows:**
 

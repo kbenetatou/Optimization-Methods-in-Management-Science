@@ -1,0 +1,7 @@
+The file named final_solution.txt (produced by solution.py) 
+contains our initial feasible solution, while the file named final_solution_better.txt (produced by checksolution.py) 
+contains the optimized solution.
+The solution.py implements the idea of the Clark-Wright algorithm.
+The optimization of the solution (checksolution.py) is based on the concept of local search with 1-1 exchange, 
+calculating the new cost for each possible rearrangement of the nodes in the respective route.
+
